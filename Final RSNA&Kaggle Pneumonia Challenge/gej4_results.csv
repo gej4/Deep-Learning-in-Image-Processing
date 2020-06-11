@@ -1,0 +1,4 @@
+,tr_mean,tr_median,tr_25th-tile,tr_75th-tile,val_mean,val_median,val_25th-tile,val_75th-tile
+model 1,0.876,0.0,0.0,1.0,0.863,0.0,0.0,1.0
+model 2,0.886,81.0,0.0,5044.75,0.884,0.0,0.0,4009.0
+model 3,0.867,314.0,9.0,4145.75,0.85,189.0,7.0,2984.0
